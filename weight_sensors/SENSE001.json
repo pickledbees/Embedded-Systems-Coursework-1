@@ -1,0 +1,1 @@
+{"sensorId":"SENSE001","requestTopic":"IC.embedded/P/F/SENSE001/getWeight","receiveTopic":"IC.embedded/P/F/SENSE001/SERVE001/giveWeight","unitName":"Chicken Stock","weightPerUnit":"120"}
